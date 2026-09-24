@@ -1,4 +1,4 @@
-# Nge-Jepang
+# Nge-Jepang 🇯🇵
 
 <table>
     <tr>
