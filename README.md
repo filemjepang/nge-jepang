@@ -2,8 +2,8 @@
 
 <h2>Table of Contents</h2>
 <ul>
-    <li><a href="#">Censored</a></li>
-    <li><a href="#">Uncesored</a></li>
+    <li><a href="#censored">Censored</a></li>
+    <li><a href="#uncensored">Uncensored</a></li>
 </ul>
 
 <h3>Censored</h3>
@@ -40,7 +40,7 @@
     </tr>
 </table>
 
-<h3>Uncesored</h3>
+<h3>Uncensored</h3>
 <table>
     <tr>
         <td align="center">
