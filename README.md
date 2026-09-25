@@ -1,54 +1,9 @@
 # Nge-Jepang 🇯🇵
 
-<h2>Table of Contents</h2>
-<ul>
-    <li><a href="#censored">Censored</a></li>
-    <li><a href="#uncensored">Uncensored</a></li>
-</ul>
-
-<h3>Censored</h3>
-<table>
-    <tr>
-        <td align="center">
-            <img src="https://i.ibb.co.com/wF9V7Zc2/snos385pl.jpg" width="600"><br>
-            <a href="https://ok.ru/videoembed/16749919603359">SNOS-385 | Ako Kimura</a>
-        </td>
-    </tr>
-</table>
-<table>
-    <tr>
-        <td align="center">
-            <img src="https://i.ibb.co.com/zWwTMPqf/1namh076pl.jpg" width="600"><br>
-            <a href="https://ok.ru/videoembed/16713594768031">NAMH-076 | Kaho Hanamori</a>
-        </td>
-    </tr>
-</table>
-<table>
-    <tr>
-        <td align="center">
-            <img src="https://i.ibb.co.com/7JGZGqvP/mkon149pl.jpg" width="600"><br>
-            <a href="https://ok.ru/videoembed/16718610893471">MKON-149 | Yui Hatano</a>
-        </td>
-    </tr>
-</table>
-<table>
-    <tr>
-        <td align="center">
-            <img src="https://i.ibb.co.com/pBDcqMSr/waaa613pl.jpg" width="600"><br>
-            <a href="https://ok.ru/videoembed/16722169760415">WAAA-613 | Moka Haruhi</a>
-        </td>
-    </tr>
-</table>
-
-<h3>Uncensored</h3>
-<table>
-    <tr>
-        <td align="center">
-            <img src="https://i.ibb.co.com/DDvDBkLq/mpv-shot0014-cropped.jpg" width="600"><br>
-            <a href="https://ok.ru/videoembed/16750499138207">FC2-PPV-4981790 [1]</a>
-        </td>
-    </tr>
-</table>
-  
-        
-        
+<div align="left">
+    <a href="https://ok.ru/videoembed/16749919603359">SNOS-385</a> -
+    <a href="https://ok.ru/videoembed/16713594768031">NAMH-076</a> -
+    <a href="https://ok.ru/videoembed/16718610893471">MKON-149</a> -
+    <a href="https://ok.ru/videoembed/16722169760415">WAAA-613</a> -
+    <a href="https://ok.ru/videoembed/16750499138207">FC2-PPV-4981790-1</a>
+</div>
